@@ -39,7 +39,8 @@ A classic Snake game built in Python using the Turtle graphics library. Eat food
 
 - `snake_game.py` — The main Python script for the Snake game.
 
----## 🤝 Contributing
+---
+## 🤝 Contributing
 
 Pull requests and suggestions are welcome! Open an issue first to discuss changes.
 
