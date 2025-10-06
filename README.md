@@ -23,4 +23,34 @@ A classic Snake game built in Python using the Turtle graphics library. Eat food
 ---
 
 ## 🛠️ Installation & Setup
+1. git clone https://github.com/Rivu5555/SerpentineSprint.git
+   cd snake-game-turtle
+2. **Make sure Python 3.x is installed.**
+3. **Run the game:**
+
+## 🧩 Requirements
+
+- Python 3.x (recommended)
+- Built-in Turtle module (no extra install needed)
+
+---
+
+## 📦 Files
+
+- `snake_game.py` — The main Python script for the Snake game.
+
+---## 🤝 Contributing
+
+Pull requests and suggestions are welcome! Open an issue first to discuss changes.
+
+---
+## 📚 References
+
+- [Python Turtle Graphics Docs](https://docs.python.org/3/library/turtle.html)
+- [Classic Snake game Wiki](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
+
+---
+
+*Enjoy playing and coding! 🐍*
+
 
