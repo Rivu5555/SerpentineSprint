@@ -1,23 +1,26 @@
+# 🐍 Snake Game in Python (Turtle)
 
-🐢 SerpentineSprint
-🎮 Overview
-A vibrant, interactive Snake game built with Python’s turtle graphics. Guide your serpent, gobble snacks, and race for the highest score—don’t crash!
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Turtle](https://img.shields.io/badge/Turtle-graphics-green)
+![Game](https://img.shields.io/badge/Game-Snake-yellow)
+![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
-📝 Game Details
-Language: Python 3.x
+---
 
-Library: turtle (built-in)
+## 🎮 Overview
 
-Controls: W, A, S, D or Arrow keys ⬆️⬇️⬅️➡️
+A classic Snake game built in Python using the Turtle graphics library. Eat food, grow your snake, and avoid collisions with the walls and your own tail. Simple, addictive, and fun for all ages!
 
-Reset: Automatic after collision
+---
 
-⚡️ Requirements
-🐍 Python 3.x
+## 🚀 How to Play
 
-🐢 turtle (standard with Python)
+- **Use W, A, S, D or arrow keys** to move the snake (up, left, down, right).
+- **Eat yellow circles** to score points and grow your snake.
+- **Avoid** hitting the borders and your own tail, or the game resets.
+- Your current and high scores are updated as you play!
 
-No extra dependencies
+---
 
-🚀 How to Play
-🌱 Clone the repo
+## 🛠️ Installation & Setup
+
